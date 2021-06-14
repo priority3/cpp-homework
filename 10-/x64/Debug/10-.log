@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\cc\c.daily\c++课后习题\10-\源.cpp(29,21): error C2535: “Point Rectangle::getLeftup(void)”: 已经定义或声明成员函数
+D:\cc\c.daily\c++课后习题\10-\源.cpp(25): message : 参见“Rectangle::getLeftup”的声明
+D:\cc\c.daily\c++课后习题\10-\源.cpp(14,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据

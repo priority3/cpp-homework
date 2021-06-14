@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\cc\c.daily\c++课后习题\4.16 随机整数 位数和\源.cpp(7,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\cc\c.daily\c++课后习题\4.16 随机整数 位数和\源.cpp(13,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  4.16 随机整数 位数和.vcxproj -> D:\cc\c.daily\c++课后习题\x64\Debug\4.16 随机整数 位数和.exe

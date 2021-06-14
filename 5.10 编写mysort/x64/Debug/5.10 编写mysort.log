@@ -1,0 +1,2 @@
+﻿  源.cpp
+D:\cc\c.daily\c++课后习题\5.10 编写mysort\源.cpp(10,9): error C2040: “p”:“int (*)[4]”与“int *”的间接寻址级别不同

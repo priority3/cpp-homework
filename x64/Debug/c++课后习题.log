@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\cc\c.daily\c++课后习题\源.cpp(6,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  c++课后习题.vcxproj -> D:\cc\c.daily\c++课后习题\x64\Debug\c++课后习题.exe

@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\cc\c.daily\c++课后习题\4.12 整换0问题\源.cpp(7,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\cc\c.daily\c++课后习题\4.12 整换0问题\源.cpp(8,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\cc\c.daily\c++课后习题\4.12 整换0问题\源.cpp(9,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  4.12 整换0问题.vcxproj -> D:\cc\c.daily\c++课后习题\x64\Debug\4.12 整换0问题.exe
